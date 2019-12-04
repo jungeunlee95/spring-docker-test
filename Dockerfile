@@ -10,7 +10,7 @@ VOLUME /tmp
 EXPOSE 8080
 
 # The application's jar file
-ARG JAR_FILE=build/libs/docker-test-0.1.0-SNAPSHOT.jar
+ARG JAR_FILE=build/libs/docker-test-0.0.1-SNAPSHOT.jar
 
 # Add the application's jar to the container
 ADD ${JAR_FILE} springboot-docker-test.jar
