@@ -1,4 +1,3 @@
 # git ignore springboot-docker-test
 .gradle/
 .idea
-build/
