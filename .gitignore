@@ -1,4 +1,4 @@
-# git ignore spring-docker-test
+# git ignore springboot-docker-test
 .gradle/
 .idea
 build/
